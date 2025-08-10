@@ -16,15 +16,6 @@ Interactive soil FTIR absorbance simulator with sliders for clays, water (interl
 1. Download `index.html` from this repository.
 2. Double‑click to open it in your browser (Chrome/Edge/Firefox). No build step, no dependencies.
 
-## Deploy to GitHub Pages
-
-1. Put `index.html` at the **root** of the repo.
-2. Go to **Settings → Pages**.
-3. **Source:** *Deploy from a branch* → **Branch:** `main` → **Folder:** `/` → **Save**.
-4. After \~1 minute, your simulator will be live at:
-   ```
-   https://YOUR-USERNAME.github.io/REPO-NAME/
-   ```
 
 ## Data / Attribution
 
